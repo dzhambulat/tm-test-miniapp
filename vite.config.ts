@@ -8,5 +8,5 @@ export default defineConfig({
   build: {
     outDir: './docs'
   },
-  base: './tm-test-miniapp/'
+  base: '/tm-test-miniapp/'
 });
